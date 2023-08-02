@@ -6,7 +6,7 @@ The dataset provided by the client consisted of users' session data for a year, 
 
 Analyzing the provided data was an intriguing task as it had been collected by non-experts, making it susceptible to potential errors in some columns. Participants had to navigate through the dataset, uncover meaningful patterns, and construct robust predictive models to accurately determine whether a user would make a purchase, leveraging the available attributes.
 
-After arduous model building and thorough evaluation, I proudly secured the 176th rank among numerous talented competitors. The competition offered valuable insights into understanding customer behavior in the e-commerce domain, thereby facilitating the optimization of marketing strategies and elevating the overall shopping experience.
+After arduous model building and thorough evaluation, I proudly secured the **176th** rank among numerous talented competitors. The competition offered valuable insights into understanding customer behavior in the e-commerce domain, thereby facilitating the optimization of marketing strategies and elevating the overall shopping experience.
 
 # Conclusion
 
